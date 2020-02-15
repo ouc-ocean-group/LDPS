@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9f6f2eeb-6ab4-402f-bb9c-6ad820561f1d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../lib/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/backbone/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/backbone/mobile_net.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/backbone/resnet.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/backbone/vgg.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/cfg.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/dataset/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/dataset/dataloader.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/dataset/saliency_dataset.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/dataset/transform.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/model/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/model/mi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/module/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/module/base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/operators/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/operators/distributed_operators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/operators/mi_operator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/utils/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/utils/canvas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/utils/logger.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/utils/lr_scheduler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/utils/metrics.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speedtest/dfnet.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speedtest/mi_net.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speedtest/mi_part.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speedtest/mobile_net.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speedtest/test_speed.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../speedtest/vgg.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_mi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../train.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../train_mi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../train_single_mi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../utils/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../utils/cal_tfr.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../utils/crf.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../utils/curve/step.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../utils/draw_curve.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../utils/out2tab.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../utils/pr_new.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../utils/select_fig.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../utils/tb.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../utils/threshold_experiment.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1VVa98M87zZd1bSkFvhGVN1Akjc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="submit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="publication" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/submit.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.submit" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f6f2eeb-6ab4-402f-bb9c-6ad820561f1d" name="Default Changelist" comment="" />
+      <created>1577340561681</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577340561681</updated>
+      <workItem from="1577340564617" duration="3108000" />
+      <workItem from="1581780828151" duration="517000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1224" y="-875" key="#Deployment" timestamp="1577341839492">
+      <screen x="-1784" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="-1224" y="-875" key="#Deployment/136.-1080.1920.1080/0.0.1680.1050/-1784.-1080.1920.1080@-1784.-1080.1920.1080" timestamp="1577341839492" />
+    <state width="1874" height="208" key="GridCell.Tab.0.bottom" timestamp="1577345876895">
+      <screen x="-1784" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="208" key="GridCell.Tab.0.bottom/136.-1080.1920.1080/0.0.1680.1050/-1784.-1080.1920.1080@-1784.-1080.1920.1080" timestamp="1577345876895" />
+    <state width="1874" height="208" key="GridCell.Tab.0.center" timestamp="1577345876894">
+      <screen x="-1784" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="208" key="GridCell.Tab.0.center/136.-1080.1920.1080/0.0.1680.1050/-1784.-1080.1920.1080@-1784.-1080.1920.1080" timestamp="1577345876894" />
+    <state width="1874" height="208" key="GridCell.Tab.0.left" timestamp="1577345876893">
+      <screen x="-1784" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="208" key="GridCell.Tab.0.left/136.-1080.1920.1080/0.0.1680.1050/-1784.-1080.1920.1080@-1784.-1080.1920.1080" timestamp="1577345876893" />
+    <state width="1874" height="208" key="GridCell.Tab.0.right" timestamp="1577345876895">
+      <screen x="-1784" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="208" key="GridCell.Tab.0.right/136.-1080.1920.1080/0.0.1680.1050/-1784.-1080.1920.1080@-1784.-1080.1920.1080" timestamp="1577345876895" />
+    <state x="-1315" y="-901" key="SettingsEditor" timestamp="1577341692947">
+      <screen x="-1784" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="-1315" y="-901" key="SettingsEditor/136.-1080.1920.1080/0.0.1680.1050/-1784.-1080.1920.1080@-1784.-1080.1920.1080" timestamp="1577341692947" />
+    <state x="-1062" y="-821" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration" timestamp="1577341691772">
+      <screen x="-1784" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="-1062" y="-821" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration/136.-1080.1920.1080/0.0.1680.1050/-1784.-1080.1920.1080@-1784.-1080.1920.1080" timestamp="1577341691772" />
+    <state x="-917" y="-884" width="716" height="688" key="ftp.server.browser" timestamp="1577341800608">
+      <screen x="-1784" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="-917" y="-884" width="716" height="688" key="ftp.server.browser/136.-1080.1920.1080/0.0.1680.1050/-1784.-1080.1920.1080@-1784.-1080.1920.1080" timestamp="1577341800608" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/publication$submit.coverage" NAME="submit Coverage Results" MODIFIED="1577343453219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

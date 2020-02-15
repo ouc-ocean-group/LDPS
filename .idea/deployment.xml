@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="root@192.168.193.252:10000">
+    <serverData>
+      <paths name="root@192.168.193.252:10000">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/mi_pub" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
